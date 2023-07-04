@@ -1,3 +1,5 @@
 This is a Demo3 file.
 
 This change is done from Branch_A.
+
+This is a new line.
